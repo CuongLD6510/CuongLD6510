@@ -97,13 +97,13 @@
 
 ```mermaid
 flowchart LR
-  A[💡 Idea / Requirement] --> B[📑 Analyze Business Rules]
-  B --> C[🧩 Design DB & API Contract]
-  C --> D[🛠 Implement Backend (.NET + EF)]
-  D --> E[🎨 Build UI (Blazor/React)]
-  E --> F[✅ Testing & UAT]
-  F --> G[📦 Deploy & Monitor]
-  G --> H[🔁 Feedback & Continuous Improvement]
+  A["Idea / Requirement"] --> B["Analyze Business Rules"]
+  B --> C["Design DB & API Contract"]
+  C --> D["Implement Backend (.NET + EF)"]
+  D --> E["Build UI (Blazor/React)"]
+  E --> F["Testing & UAT"]
+  F --> G["Deploy & Monitor"]
+  G --> H["Feedback & Continuous Improvement"]
 ```
 
 </div>
