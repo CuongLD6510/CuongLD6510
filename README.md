@@ -7,11 +7,11 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:4f46e5&height=220&section=header&text=LY%20DAI%20CUONG&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Colorful gradient banner" />
 
-  <h3 style="font-size:1.4rem; font-weight:600; color:#F97316;">
+  <h3 style="font-size:1.4rem; font-weight:600; color:#F97316; margin-top: 0px">
     Fresher .NET Developer · Full‑stack Enthusiast
   </h3>
 
-  <img
+<img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&height=60&color=38BDF8&lines=Clean+Code+Lover;ASP.NET+Core+%26+EF+%7C+ABP+Framework;React+%26+Tailwind+%7C+Modern+Frontend;Always+Learning+Always+Improving"
     alt="Typing SVG"
   />
@@ -43,10 +43,10 @@
 
 ## 🌈 Overview
 
-- **Name**: LY DAI CUONG  
-- **Role**: Fresher .NET Developer  
-- **Location**: Ho Chi Minh City, Viet Nam  
-- **Interests**: Enterprise systems, clean architecture, data‑driven dashboards, AI‑assisted coding  
+- **Name**: LY DAI CUONG
+- **Role**: Fresher .NET Developer
+- **Location**: Ho Chi Minh City, Viet Nam
+- **Interests**: Enterprise systems, clean architecture, data‑driven dashboards, AI‑assisted coding
 
 > “Write code that your future self (and your teammates) will thank you for.”
 
@@ -108,40 +108,42 @@ flowchart LR
 
 ## 🧭 Experience Timeline
 
-### HQSOFT Company Limited · .NET Developer  
+### HQSOFT Company Limited · .NET Developer
+
 `March 2025 – November 2025`
 
 **Ajinomoto VNTT – eSales DMS Solution**
 
-- **Description**: Enterprise DMS project on HQSOFT's Xspire Business Platform using the **eSales DMS Solution** to help Ajinomoto optimize distribution, improve sales efficiency, and monitor business performance.  
-- **Tech**: ABP Framework, ASP.NET Core, C#, Entity Framework, Blazor, DevExpress, PostgreSQL  
-- **Tools**: ABP Suite, Cursor AI Agents  
+- **Description**: Enterprise DMS project on HQSOFT's Xspire Business Platform using the **eSales DMS Solution** to help Ajinomoto optimize distribution, improve sales efficiency, and monitor business performance.
+- **Tech**: ABP Framework, ASP.NET Core, C#, Entity Framework, Blazor, DevExpress, PostgreSQL
+- **Tools**: ABP Suite, Cursor AI Agents
 - **Contributions**:
-  - Built master data screens (products, customers, KPIs, etc.)  
-  - Participated in solution design & UI/UX discussions  
-  - Applied AI agents (Cursor) to speed up and standardize development  
-  - Supported UAT, release and system stabilization  
-  - Improved backend skills with ABP Framework and UI skills with Blazor + DevExpress  
+  - Built master data screens (products, customers, KPIs, etc.)
+  - Participated in solution design & UI/UX discussions
+  - Applied AI agents (Cursor) to speed up and standardize development
+  - Supported UAT, release and system stabilization
+  - Improved backend skills with ABP Framework and UI skills with Blazor + DevExpress
 
 ---
 
 **Sabeco AMS**
 
-- **Description**: Enterprise software project for distribution management and sales force automation, focusing on business process optimization.  
-- **Tech**: ASP.NET MVC (Razor + Ext.NET), HQ eSkyFramework, C#, JavaScript, SQL Server  
+- **Description**: Enterprise software project for distribution management and sales force automation, focusing on business process optimization.
+- **Tech**: ASP.NET MVC (Razor + Ext.NET), HQ eSkyFramework, C#, JavaScript, SQL Server
 - **Contributions**:
-  - Implemented several master data management screens using ASP.NET MVC & Ext.NET  
-  - Learned domain knowledge about DMS‑SFA processes  
-  - Strengthened SQL skills: data manipulation, querying and debugging on SQL Server & PostgreSQL  
+  - Implemented several master data management screens using ASP.NET MVC & Ext.NET
+  - Learned domain knowledge about DMS‑SFA processes
+  - Strengthened SQL skills: data manipulation, querying and debugging on SQL Server & PostgreSQL
 
 ---
 
 ## 🎓 Education
 
-**Ton Duc Thang University** (2021 – 2025)  
-- Bachelor of Software Engineering  
-- **GPA**: 8.14 / 10  
-- Focus: Software engineering principles, web development, databases, OOP  
+**Ton Duc Thang University** (2021 – 2025)
+
+- Bachelor of Software Engineering
+- **GPA**: 8.14 / 10
+- Focus: Software engineering principles, web development, databases, OOP
 
 ---
 
@@ -171,31 +173,30 @@ flowchart LR
 - **Short‑term**:
   - Strengthening **ASP.NET Core + EF Core + SQL Server/PostgreSQL**
   - Building cleaner architectures with **ABP Framework**
-  - Practicing **React + TypeScript + Tailwind CSS** for modern frontend  
+  - Practicing **React + TypeScript + Tailwind CSS** for modern frontend
 
 - **Mid‑term**:
-  - Contributing to real projects and open‑source .NET libraries  
-  - Improving devops knowledge (deploy, logging, monitoring)  
+  - Contributing to real projects and open‑source .NET libraries
+  - Improving devops knowledge (deploy, logging, monitoring)
 
 ---
 
 ## 🌐 Languages
 
-- **Vietnamese**: Native  
-- **English**: Aptis ESOL B1 – able to read tech docs and communicate in work environment  
+- **Vietnamese**: Native
+- **English**: Aptis ESOL B1 – able to read tech docs and communicate in work environment
 
 ---
 
 ## 📫 Contact
 
-- **Phone**: 0367265803  
-- **Email**: [lydaicuong784@gmail.com](mailto:lydaicuong784@gmail.com)  
-- **GitHub**: [github.com/daicuong11](https://github.com/daicuong11)  
-- **Address**: 124/17 Cong Hoa Street, Ward 4, Tan Binh District, Ho Chi Minh City  
+- **Phone**: 0367265803
+- **Email**: [lydaicuong784@gmail.com](mailto:lydaicuong784@gmail.com)
+- **GitHub**: [github.com/daicuong11](https://github.com/daicuong11)
+- **Address**: 124/17 Cong Hoa Street, Ward 4, Tan Binh District, Ho Chi Minh City
 
 <div align="center">
   <br/>
   <hr style="border: 0; height: 2px; background: linear-gradient(90deg,#4F46E5,#EC4899,#F97316,#22C55E);" />
   <p><strong>Thank you for visiting – let’s build something great together.</strong></p>
 </div>
-
