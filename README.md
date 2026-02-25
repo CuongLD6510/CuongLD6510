@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg,#4F46E5,#EC4899,#F97316,#22C55E);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:4f46e5&height=220&section=header&text=LY%20DAI%20CUONG&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Colorful gradient banner" />
 
   <h1 style="font-size:3rem; font-weight:800; letter-spacing:4px;">
     LY DAI <span style="color:#4F46E5;">CUONG</span>
