@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://imgur.com/iyZ9XgC.png" alt="Colorful gradient divider" width="100%" />
+  <img src="[https://imgur.com/iyZ9XgC.png](https://images.unsplash.com/photo-1596949469909-5217f8b68f23?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Colorful gradient divider" width="100%" />
 
   <h1 style="font-size:3rem; font-weight:800; letter-spacing:4px;">
     LY DAI <span style="color:#4F46E5;">CUONG</span>
@@ -199,7 +199,7 @@ flowchart LR
 
 <div align="center">
   <br/>
-  <img src="https://imgur.com/iyZ9XgC.png" alt="Colorful gradient divider" width="100%" />
+  <img src="[https://imgur.com/iyZ9XgC.png](https://plus.unsplash.com/premium_photo-1673795754011-de6766149646?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Colorful gradient divider" width="100%" />
   <p><strong>Thank you for visiting – let’s build something great together.</strong></p>
 </div>
 
