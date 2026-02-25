@@ -7,7 +7,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:4f46e5&height=220&section=header&text=LY%20DAI%20CUONG&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Colorful gradient banner" />
 
-  <h3 style="font-size:1.4rem; font-weight:600; color:#F97316; margin-top: 0px">
+  <h3 style="font-size:1.4rem; font-weight:600; color:#F97316; margin-top: 0px;">
     Fresher .NET Developer · Full‑stack Enthusiast
   </h3>
 
