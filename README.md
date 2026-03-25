@@ -106,47 +106,6 @@ flowchart LR
 
 ---
 
-## 🧭 Experience Timeline
-
-### HQSOFT Company Limited · .NET Developer
-
-`March 2025 – November 2025`
-
-**Ajinomoto VNTT – eSales DMS Solution**
-
-- **Description**: Enterprise DMS project on HQSOFT's Xspire Business Platform using the **eSales DMS Solution** to help Ajinomoto optimize distribution, improve sales efficiency, and monitor business performance.
-- **Tech**: ABP Framework, ASP.NET Core, C#, Entity Framework, Blazor, DevExpress, PostgreSQL
-- **Tools**: ABP Suite, Cursor AI Agents
-- **Contributions**:
-  - Built master data screens (products, customers, KPIs, etc.)
-  - Participated in solution design & UI/UX discussions
-  - Applied AI agents (Cursor) to speed up and standardize development
-  - Supported UAT, release and system stabilization
-  - Improved backend skills with ABP Framework and UI skills with Blazor + DevExpress
-
----
-
-**Sabeco AMS**
-
-- **Description**: Enterprise software project for distribution management and sales force automation, focusing on business process optimization.
-- **Tech**: ASP.NET MVC (Razor + Ext.NET), HQ eSkyFramework, C#, JavaScript, SQL Server
-- **Contributions**:
-  - Implemented several master data management screens using ASP.NET MVC & Ext.NET
-  - Learned domain knowledge about DMS‑SFA processes
-  - Strengthened SQL skills: data manipulation, querying and debugging on SQL Server & PostgreSQL
-
----
-
-## 🎓 Education
-
-**Ton Duc Thang University** (2021 – 2025)
-
-- Bachelor of Software Engineering
-- **GPA**: 8.14 / 10
-- Focus: Software engineering principles, web development, databases, OOP
-
----
-
 ## 📊 GitHub Stats & Visualizations
 
 <div align="center">
