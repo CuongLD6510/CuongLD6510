@@ -36,17 +36,6 @@
   </p>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="380" />
-  <video
-width="100%"
-controls
-poster=""
-style="display: block; margin: 0 auto; max-width: 800px; border-radius: 12px;"
-
->
-
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_171521_25968ba2-b594-4b32-aab7-f6b69398a6fa.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 </div>
 
